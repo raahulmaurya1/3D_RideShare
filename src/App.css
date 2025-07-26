@@ -1,0 +1,11 @@
+/* Make the page scrollable but hide the scrollbar */
+body {
+  height: 100%;
+  overflow: auto; /* Hide scrollbar */
+}
+
+/* Allow scrolling but without showing the scrollbar */
+body::-webkit-scrollbar {
+  display: none;  /* Hide scrollbar in Webkit-based browsers (Chrome, Safari) */
+}
+
