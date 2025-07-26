@@ -15,8 +15,9 @@
 * [🗺️ Roadmap](#%EF%B8%8F-roadmap)
 * [🤝 Contributing](#-contributing)
 * [📄 License](#-license)
-* [✉️ Contact](#%E2%9C%89%EF%B8%8F-contact)
+* [📬 Contact](#%E2%9C%89%EF%B8%8F-contact)
 
+Youtube Link:- https://youtu.be/39Dsei-rc0U?feature=shared
 ---
 
 ## 🌟 About The Project
@@ -92,23 +93,20 @@ Experience ride-sharing in 3D!
 
 ## 🤝 Contributing
 
-Contributions are what make the open-source community amazing!
-
-1.  Fork the Project.
-2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`).
-3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`).
-4.  Push to the Branch (`git push origin feature/AmazingFeature`).
-5.  Open a Pull Request.
+We ❤️ contributions!  
+Fork the repo → make your changes → submit a PR.
 
 ---
 
-## 📄 License
+## 📜 License
 
-Distributed under the [Your Chosen License, e.g., MIT License]. See `LICENSE` for details.
+Licensed under the [MIT License](LICENSE)
 
 ---
 
-## ✉️ Contact
+## 📬 Contact
 
+Created by Rahul Maurya 
+📧 Email: raahulmaurya2@gmail.com  
+🔗 GitHub: @raahulmaurya1
 
-Project Link: [https://github.com/raahulmaurya1/3D_RideShare](https://github.com/raahulmaurya1/3D_RideShare)
