@@ -1,4 +1,4 @@
-# 3D RideShare
+# RideX | A Next-Gen 3D Ride Booking Application
 
 [![GitHub license](https://img.shields.io/github/license/raahulmaurya1/3D_RideShare)](https://github.com/raahulmaurya1/3D_RideShare/blob/main/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/raahulmaurya1/3D_RideShare)](https://github.com/raahulmaurya1/3D_RideShare/stargazers)
