@@ -35,12 +35,12 @@ Youtube Link:- https://youtu.be/39Dsei-rc0U?feature=shared
 
 Built for performance and scalability, 3D RideShare leverages cutting-edge technologies:
 
-* **3D Engine:** **[Unity 3D / Unreal Engine / Three.js / Babylon.js]** – For immersive 3D rendering and interactive scenes.
-* **Real-time Communication:** **[Firebase Realtime Database / WebSockets (Node.js/Socket.IO) / Photon PUN 2]** – Powers live location updates and instant communication.
-* **Backend & Data:** **[Firebase (Firestore/Functions) / AWS Amplify / Node.js (Express) / Python (Django/FastAPI)]** – Handles user data, ride logistics, and server-side logic.
+* **3D Engine:** **[React.js, Three.js , Unity WebGL]** – For immersive 3D rendering and interactive scenes.
+* **Real-time Communication:** **[WebSockets (Node.js/Socket.IO)]** – Powers live location updates and instant communication.
+* **Backend & Data:** **[AWS Amplify / Node.js (Express) / FastAPI)]** – Handles user data, ride logistics, and server-side logic.
 * **Mapping & Location:** **[Google Maps Platform (Maps SDK for Unity/JS, Photorealistic 3D Tiles) / Mapbox]** – Provides accurate geographical data and stunning 3D city models.
-* **Database:** **[Cloud Firestore / MongoDB / PostgreSQL]** – For robust data storage.
-* **Authentication:** **[Firebase Authentication / OAuth 2.0]** – Secure user management.
+* **Database:** **[PostgreSQL]** – For robust data storage.
+* **Authentication:** **[OAuth 2.0]** – Secure user management.
 * **[Optional: Add one more crucial tech, e.g., "Payment Gateway: Stripe"]**
 
 ---
@@ -53,7 +53,7 @@ Ready to explore 3D RideShare? Here's how to get it running!
 
 * **[Unity Editor (e.g., 2023.2.11f1)]** or **[Node.js (LTS)]** if web-based.
 * **Git**
-* **[Google Cloud Platform / Firebase Project]** for API keys and backend services.
+* **[Google Cloud Platform ]** for API keys anz backend services.
 
 ### ⬇️ Installation
 
